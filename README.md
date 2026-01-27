@@ -1,2 +1,2 @@
-# Project for Smart City Resource Analytics in Portugal (2026-2010)
+# Project for Smart City Resource Analytics in Portugal (2006-2010)
 
